@@ -12,8 +12,7 @@ Este repositório contém um projeto de estudo focado na criação de **Web Serv
 - **H2 Database** (banco de dados em memória para testes)  
 - **PostgreSQL** (em contexto de deploy)  
 - **Maven**  
-- **JPA (Java Persistence API)**  
-- **Lombok** (para reduzir código boilerplate)
+- **JPA (Java Persistence API)** 
 
 ## Estrutura do Projeto
 
